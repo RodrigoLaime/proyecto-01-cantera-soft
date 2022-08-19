@@ -67,33 +67,3 @@ function mercado(marcaDeAuto){
 for(var i = 0; i < marcaDeAuto.length; i++){
     mercado(marcaDeAuto[i]);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-var marcaDeAuto = ["Fiat", "Peugeot", "Ford","Audi"];
-
-var num = [1, 2, 3, 4, 5];
-function q(num){
-    console.log(num);
-}
-for(var i = 2; i > marcaDeAuto.length; i--);
-
-
-
-
-
